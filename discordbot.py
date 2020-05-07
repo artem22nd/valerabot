@@ -211,5 +211,5 @@ async def help( ctx, amount = 1 ):
 
 # Connect
 
-token = open( "token.txt", 'r').readline()
+token = "NzA1MTU1NTQ1ODQ5NTI4NDAy.XrRdhQ.ox0z3Sk8KvuTLAO-wL4dL553D-0"
 client.run( token )
